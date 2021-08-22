@@ -22,7 +22,6 @@ else {
 ReactDOM.render(
   <>
     <div>
-    Current Date: {currDate}
     <h1>
       Hello Dear, <span style = {cssStyle}>{greeting}</span>
     </h1>
